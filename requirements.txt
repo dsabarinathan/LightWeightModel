@@ -1,0 +1,7 @@
+opencv-python
+tensorflow-gpu ==1.10.0
+scipy
+numpy
+keras == 2.2.4
+
+
