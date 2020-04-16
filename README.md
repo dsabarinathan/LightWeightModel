@@ -39,7 +39,7 @@ $pip install --upgrade -r requirements.txt
 $python test.py --testImagePath=yourpathtoimages
 ```
 
-## results
+## Results
 
 | Data size  | Data  |  MRAE  |  SSIM  |
 | :------: | :------: | :-------: | :-------: |  
