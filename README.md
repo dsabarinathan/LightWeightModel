@@ -13,17 +13,17 @@ RGB Images by K.Uma et .2020"](https://arxiv.org/ftp/arxiv/papers/2004/2004.0693
 
 ## How to setup the environment
 
-### Step1 
+### Step 1 
 
 Unzip the downloaded folder
 
 
-### Step2
+### Step 2
 
 Open the powershell or terminal
 
 
-### Step3
+### Step 3
 
 ```
 $cd yourpathtoLightWeightModel
