@@ -1,5 +1,5 @@
 opencv-python
-tensorflow-gpu ==1.10.2
+tensorflow-gpu ==2.12.0
 scipy
 numpy
 keras == 2.2.4
